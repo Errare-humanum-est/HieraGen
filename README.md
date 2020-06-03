@@ -18,9 +18,11 @@ Python 3.5 or higher
 Packages: antlr-python3-runtime 3.4; colorama 0.3.9; tabulate 0.8.2
 
 To run the HieraGen (hierachical protocols) testbench encompassing a set of different protocol combinations execute:
+
 python3 HieraGenTestBench.py
 
 To run the ProtoGen (flat protocols) testbench encompassing a set of different protocols execute:
+
 python3 ProtoGen.py
 
 
