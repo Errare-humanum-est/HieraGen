@@ -3,6 +3,7 @@ We are currently working on cleaning up the code and aggregating setting flags t
 
 
 A detailed descritpion of the HieraGen (ISCA'20) algorithm is provided here: https://github.com/Errare-humanum-est/HieraGen/blob/master/ISCA_HieraGen.pdf 
+
 A detailed descritpion of the ProtoGen (ISCA'18) algorithm is provided here: https://github.com/Errare-humanum-est/ProtoGen/blob/master/ISCA_ProtoGen.pdf
 
 
