@@ -2,11 +2,10 @@ HieraGen is still under development. Future releases and bug fixes are likely so
 We are currently working on cleaning up the code and aggregating setting flags to make the code more user friendly. 
 
 
-A detailed descritpion of the HieraGen (ISCA'20) algorithm is provided here: 
-https://github.com/Errare-humanum-est/HieraGen/blob/master/ISCA_HieraGen.pdf 
+A detailed descritpion of the HieraGen (ISCA'20) algorithm is provided here: [HieraGen ISCA'20](https://github.com/Errare-humanum-est/HieraGen/blob/ea8e95fe8d50eed9e49118ac1d402da54767d696/ISCA_HieraGen.pdf)
 
-A detailed descritpion of the ProtoGen (ISCA'18) algorithm is provided here: 
-https://github.com/Errare-humanum-est/ProtoGen/blob/master/ISCA_ProtoGen.pdf
+A detailed descritpion of the ProtoGen (ISCA'18) algorithm is provided here: [ProtoGen ISCA'18](https://github.com/Errare-humanum-est/ProtoGen/blob/e11c9b88f626dd03c5fa5d6fc947db32d25d5ea9/ISCA_ProtoGen.pdf)
+
 
 
 If you have questions, you want to contribute or simply report any bugs, please contact: hiera.gen at ed.ac.uk
